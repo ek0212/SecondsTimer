@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html class="center">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Timer</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+  </head>
+
+  <body>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+    </style>
+    <div id="ext-name">SecondsTimer</div>
+    <div class="greeting-container">
+      <h2 class="greeting" id="greeting"></h2>
+    </div>
+    <div id="countdown"></div>
+
+    <button id="settings-button">Enter a time</button>
+
+    <div class="settings" id="settings">
+      <form class="time-form" id="time-form" action="#">
+        <input
+          class="time-input"
+          type="text"
+          id="time-input"
+          placeholder="Time in seconds"
+        />
+        <button type="submit" class="time-button">Submit</button>
+      </form>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
