@@ -14,8 +14,6 @@
 ✅ **Quick & Simple** – Set a timer in seconds with an intuitive interface.  
 ✅ **Custom Alerts** – Get notified with a sound and desktop notification.  
 ✅ **Lightweight & Fast** – No unnecessary bloat, just a timer that works.  
-✅ **Persistent Timers** – Keeps running even if you switch tabs.  
-✅ **Dark Mode** – Easy on the eyes for night-time use.  
 
 ---
 
